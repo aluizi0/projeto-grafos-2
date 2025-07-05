@@ -9,9 +9,9 @@
 
 ### Integrantes
 
-* **Nome do Integrante 1:** Matrícula 1
-* **Nome do Integrante 2:** Matrícula 2
-* **Nome do Integrante 3:** Matrícula 3
+* **Aluízio:** 
+* **Rebeca:** 
+* **Letícia:** 
 
 ---
 
